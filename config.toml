@@ -56,26 +56,26 @@ copyright = "© {year}"
   identifier = "home"
   name = "home"
   title = "home"
-  url = "/"
+  url = "https://caravanuden.com"
   weight = 10
 
 [[menu.main]]
   identifier = "about"
   name = "about"
   title = "About"
-  url = "/about"
+  url = "https://caravanuden.com/about"
   weight = 20
 
 [[menu.main]]
   identifier = "projects"
   name = "projects"
   title = "Projects"
-  url = "/projects"
+  url = "https://caravanuden.com/projects"
   weight = 30
 
 [[menu.main]]
   identifier = "blog"
   name = "blog"
   title = "Blog"
-  url = "/blog"
+  url = "https://caravanuden.com/blog"
   weight = 40
