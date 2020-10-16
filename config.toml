@@ -1,4 +1,4 @@
-baseURL = "https://caravanuden.com"
+baseURL = "caravanuden.com"
 languageCode = "en-us"
 title = "Cara Van Uden"
 theme = "hugo-theme-codex"
