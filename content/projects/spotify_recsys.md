@@ -8,12 +8,12 @@ tags: [spotify, recommendation system, embeddings, music]
 ---
 
 **tl;dr**:
-- This project takes on playlist recommendation with a neural recommendation system.
+This project takes on playlist recommendation with a neural recommendation system.
 - [Github repo](https://github.com/caravanuden/spotify_recsys)
 
 ## Overview
 
-![A sample playlist](/images/about/playlist.png)
+![A sample playlist](/images/spotify_recsys/playlist.png)
 
 Spotify is an online music streaming service with over 140 million active users and over 30 million tracks. One of its popular features is the ability to create playlists, and the service currently hosts over 2 billion playlists.
 

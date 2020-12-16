@@ -8,7 +8,7 @@ tags: [google, text normalization, embeddings, lstm]
 ---
 
 **tl;dr**:
-- This project takes on text normalization with an LSTM encoder/decoder.
+This project takes on text normalization with an LSTM encoder/decoder.
 - [Github repo](https://github.com/caravanuden/text_norm)
 - [Jupyter notebook](text_norm_model.html) for the data preprocessing, model training, and model prediction code.
 - If you want to load my encoder-decoder model, download the hdf5 file and run the following lines of code to play around with my trained model:
