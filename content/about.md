@@ -4,7 +4,7 @@ type: page
 ---
 ![that's me!](/images/about/cara.jpg "that's me!")
 
-I'm an MS in Computer Science student at Stanford. Here, I'm specializing in the Artificial Intelligence track.
+I'm an MS in Computer Science student at Stanford. Here, I'm specializing in the Artificial Intelligence track. In the [Stanford Machine Learning Group](https://stanfordmlgroup.github.io/) and [Shah Lab](https://shahlab.stanford.edu/), I'm researching applications of representation learning and few-shot learning using patient images (X-ray and CT) and text (electronic health record).
 
 Before this, I was a machine learning engineer at Wayfair, where I worked on various visual similarity and exact product matching projects.
 
