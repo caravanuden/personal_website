@@ -4,7 +4,7 @@ date: 2020-07-08
 draft: false
 slug: serving-image-classifier
 toc: true
-tags: [resnet, fastapi, redis, docker, productionizing]
+tags: [resnet, fastapi, redis, docker]
 ---
 
 **tl;dr**:

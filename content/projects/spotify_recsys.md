@@ -4,7 +4,7 @@ date: 2018-05-31
 draft: false
 slug: spotify-recsys
 toc: true
-tags: [spotify, recommendation system, embeddings, music]
+tags: [recsys, embedding, music]
 ---
 
 **tl;dr**:

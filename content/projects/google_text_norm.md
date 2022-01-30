@@ -4,7 +4,7 @@ date: 2018-07-01
 draft: false
 slug: text-norm
 toc: true
-tags: [google, text normalization, embeddings, lstm]
+tags: [nlp, embedding, lstm]
 ---
 
 **tl;dr**:
