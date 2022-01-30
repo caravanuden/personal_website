@@ -72,10 +72,3 @@ copyright = "© {year}"
   title = "Projects"
   url = "https://caravanuden.com/projects"
   weight = 30
-
-[[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "https://caravanuden.com/blog"
-  weight = 40
